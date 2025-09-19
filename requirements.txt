@@ -1,0 +1,6 @@
+python-dotenv
+together
+matplotlib
+numpy
+imageio
+imageio-ffmpeg
